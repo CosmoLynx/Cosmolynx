@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CSE @ NIT Nagpur  +  Data Science @ IIT Madras — yes, both simultaneously (send help ☕)<br><br>💻 React for the eyes, Python for the brain, Stack Overflow for everything else<br>📊 I love turning messy real-world data into something that actually makes sense<br>🚀 Into full-stack dev, data analytics, and agentic AI<br><br>🔭 Currently surviving two degrees and shipping projects in between<br><br>⚡ Fun fact: Fixed a pharma company's inventory with business analytics — my mom still thinks I "do computer things"
+🎓 CSE @ IIIT Nagpur  +  Data Science @ IIT Madras — yes, both simultaneously (send help ☕)<br><br>💻 React for the eyes, Python for the brain, Stack Overflow for everything else<br>📊 I love turning messy real-world data into something that actually makes sense<br>🚀 Into full-stack dev, data analytics, and agentic AI<br><br>🔭 Currently surviving two degrees and shipping projects in between<br><br>⚡ Fun fact: Fixed a pharma company's inventory with business analytics — my mom still thinks I "do computer things"
 
 
 ## 🌐 Socials:
